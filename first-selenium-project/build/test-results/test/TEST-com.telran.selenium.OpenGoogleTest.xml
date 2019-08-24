@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.selenium.OpenGoogleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-24T20:30:59" hostname="WIN-394HOHAC37R" time="15.678">
+  <properties/>
+  <testcase name="setUp" classname="com.telran.selenium.OpenGoogleTest" time="15.678"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 31672
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+авг 24, 2019 11:31:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
